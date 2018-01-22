@@ -14,6 +14,8 @@ All CAM (toolpath) profiles are included in the project file and are optimized f
 
 ![Fully assembled](renders/legs-and-shelves-only.png)
 
+![Dimensioned](renders/fully-assembled-dimensioned.png)
+
 ![Sample drawing](renders/end-leg-drawing.png)
 
 Drawings for all of the parts for this project are available in the [drawings/](drawings/) folder.
