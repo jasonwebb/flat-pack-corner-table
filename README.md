@@ -31,9 +31,9 @@ Also note the inset 'swoop' on the outer surface of the end legs, making the the
 
 ![Fully assembled](renders/legs-and-shelves-only.png)
 
+# Technical drawings
 ![Dimensioned](renders/fully-assembled-dimensioned.png)
 
-# Technical drawings
 ![Sample drawing](renders/end-leg-drawing.png)
 
 Drawings for all of the parts for this project are available in the [drawings/](drawings/) folder.
